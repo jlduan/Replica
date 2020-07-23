@@ -2,6 +2,9 @@ Zhou, Y., Song, W.M., Andhey, P.S., Swain, A., Levy, T., Miller, K.R., Poliani, 
 
 <br>
 
+
+
+[Data preparation](https://nbviewer.jupyter.org/github/jlduan/Replica/blob/master/s41591-019-0695-9/notebooks/merge_matrices.ipynb)<br>
 [Clustering](https://nbviewer.jupyter.org/github/jlduan/Replica/blob/master/s41591-019-0695-9/notebooks/cluster.ipynb)<br>
-[snucRNA-Seq Analysis](
+[snucRNA-Seq analysis](
 https://htmlpreview.github.io/?https://github.com/jlduan/Replica/blob/master/s41591-019-0695-9/notebooks/analyze.html)
