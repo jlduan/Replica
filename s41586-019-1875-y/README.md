@@ -6,4 +6,4 @@ GEO Accession: GSE136447<br>
 <br>
 
 [scRNA-Seq secondary analysis](
-https://htmlpreview.github.io/?https://github.com/jlduan/Replica/blob/master/s41586-019-1875-y/notebooks/analyze.html)
+https://htmlpreview.github.io/?https://github.com/jlduan/Replica/blob/master/s41586-019-1875-y/notebooks/analyze_refactored.html)<br>
