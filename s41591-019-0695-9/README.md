@@ -6,4 +6,4 @@ GEO Accession: GSE140510<br>
 <br>
 
 [snucRNA-Seq analysis](
-https://htmlpreview.github.io/?https://github.com/jlduan/Replica/blob/master/s41591-019-0695-9/notebooks/analyze_refactored.html)<br>
+https://htmlpreview.github.io/?https://github.com/jlduan/Replica/blob/master/s41591-019-0695-9/notebooks/analyze_refactored_ragg.html)<br>
