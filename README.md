@@ -1,6 +1,11 @@
 # Replica
 
+<br>
+
 > 紙上得來終覺淺，絕知此事要躬行
+
+<br>
+
 
 | Title | DOI | Year |
 | :- | :- | :-: |
@@ -17,3 +22,6 @@
 | **[Derivation of trophoblast stem cells from naïve human pluripotent stem cells](http://doi.org/10.7554/eLife.52504)** | eLife.52504 | 2020 |
 | **[Naive Human Embryonic Stem Cells Can Give Rise to Cells with a Trophoblast-like Transcriptome and Methylome](https://doi.org/10.1016/j.stemcr.2020.06.003)** | j.stemcr.2020.06.003 | 2020  |
 | **[Cells of the adult human heart](https://doi.org/10.1038/s41586-020-2797-4)** | s41586-020-2797-4 | 2020 |
+
+
+<br>
