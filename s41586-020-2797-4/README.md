@@ -5,5 +5,7 @@ BioProject Accession: PRJEB39602<br>
 GEO Accession: ERP123138<br>
 <br>
 
-[scRNA-Seq analysis](
+[sc/snucRNA-Seq analysis](
 https://htmlpreview.github.io/?https://github.com/jlduan/Replica/blob/master/s41586-020-2797-4/notebooks/analyze_hca_heart.html)<br>
+[Spatial transcriptomic analysis](
+https://htmlpreview.github.io/?https://github.com/jlduan/Replica/blob/master/s41586-020-2797-4/notebooks/analyze_spatial.html)<br>
