@@ -22,7 +22,8 @@
 | **[Derivation of trophoblast stem cells from naïve human pluripotent stem cells](http://doi.org/10.7554/eLife.52504)** | [eLife.52504](https://github.com/jlduan/Replica/tree/master/eLife.52504) | 2020 |
 | **[Naive Human Embryonic Stem Cells Can Give Rise to Cells with a Trophoblast-like Transcriptome and Methylome](https://doi.org/10.1016/j.stemcr.2020.06.003)** | [j.stemcr.2020.06.003](https://github.com/jlduan/Replica/tree/master/j.stemcr.2020.06.003) | 2020  |
 | **[Cells of the adult human heart](https://doi.org/10.1038/s41586-020-2797-4)** | [s41586-020-2797-4](https://github.com/jlduan/Replica/tree/master/s41586-020-2797-4) | 2020 |
-| **[ Highly sensitive spatial transcriptomics at near-cellular resolution with Slide-seqV2](https://doi.org/10.1038/s41587-020-0739-1)** | [s41587-020-0739-1](https://github.com/jlduan/Replica/tree/master/s41587-020-0739-1) | 2020 |
+| **[Highly sensitive spatial transcriptomics at near-cellular resolution with Slide-seqV2](https://doi.org/10.1038/s41587-020-0739-1)** | [s41587-020-0739-1](https://github.com/jlduan/Replica/tree/master/s41587-020-0739-1) | 2020 |
+| **[Naive stem cell blastocyst model captures human embryo lineage segregation](https://doi.org/10.1016/j.stem.2021.04.031)** | [s41587-020-0739-1](https://github.com/jlduan/Replica/tree/master/j.stem.2021.04.031) | 2021 |
 
 
 <br>
